@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Write a program to display the first 10 natural numbers", "Write a program to display the first 10 natural numbers\Write a program to display the first 10 natural numbers.vbproj", "{BC744FFB-B1F0-4247-8421-2E040B4DDC5B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "wap to add first natural numbers", "..\wap to add first natural numbers\wap to add first natural numbers.vbproj", "{96DEDF87-5182-41C5-B3B7-E7A974E8B4D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC744FFB-B1F0-4247-8421-2E040B4DDC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC744FFB-B1F0-4247-8421-2E040B4DDC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC744FFB-B1F0-4247-8421-2E040B4DDC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC744FFB-B1F0-4247-8421-2E040B4DDC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DEDF87-5182-41C5-B3B7-E7A974E8B4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DEDF87-5182-41C5-B3B7-E7A974E8B4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DEDF87-5182-41C5-B3B7-E7A974E8B4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DEDF87-5182-41C5-B3B7-E7A974E8B4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
